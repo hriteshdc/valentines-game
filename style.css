@@ -5,7 +5,7 @@
     --bg-gradient: linear-gradient(135deg, #fff0f3 0%, #ffccd5 100%);
     --white: #ffffff;
     --font-heading: 'Great Vibes', cursive;
-    --font-body: 'Poppins', sans-serif;
+    --font-body: 'Sacramento', cursive;
 }
 
 * {
@@ -173,4 +173,5 @@ p {
 
 .proposal-content h1 {
     animation: heartbeat 2s infinite;
+
 }
